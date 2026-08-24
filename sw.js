@@ -1,4 +1,4 @@
-const CACHE_NAME = "jelly-v8";
+const CACHE_NAME = "GLUTv1.0.0";
 const APP_SHELL = [
   "./",
   "./manifest.webmanifest",

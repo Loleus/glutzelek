@@ -30,15 +30,11 @@ Gra platformowa 3D. Wspinaj sie pospiralnej wiezy, zbieraj klejnoty i unikaj prz
 
 ## Technologia
 
-- Three.js (WebGL)
-- React + TypeScript
-- Vite
-- Tailwind CSS
+html + Javascript
 
 ## Uruchomienie
 
-npm install
-npm run dev
+index.xtml
 
 ## Autor
 

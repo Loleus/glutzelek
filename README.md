@@ -1,4 +1,4 @@
-# Glut Żelek - Wieże
+# Glut Żelek - Wieża
 
 Gra platformowa 3D. Wspinaj sie pospiralnej wiezy, zbieraj klejnoty i unikaj przeszkod. Glut nie lubi się męczyć, więc największe brawa uzyskasz uzyskując jak najmniejsząilość skoków po zdobyciu szczytu (i zebraniu wszystkich klejnotów)
 
@@ -34,7 +34,7 @@ html + Javascript
 
 ## Uruchomienie
 
-index.xtml
+index.html
 
 ## Autor
 

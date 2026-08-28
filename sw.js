@@ -1,4 +1,4 @@
-const CACHE_NAME = "GLUTv1.0.2";
+const CACHE_NAME = "GLUTv1.0.1";
 const APP_SHELL = [
   "./",
   "./manifest.webmanifest",
@@ -11,6 +11,8 @@ const APP_SHELL = [
   "./icons/flag-gb.svg",
   "./fonts/FreckleFace-Regular.woff2",
   "./fonts/Yarin-Regular.woff2",
+  "./fonts/Cause-Regular.woff2",
+  "./fonts/Cause-Bold.woff2",
   "./glut.png",
 ];
 

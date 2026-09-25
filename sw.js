@@ -1,4 +1,4 @@
-const CACHE_NAME = "GLUTv1.0.4";
+const CACHE_NAME = "GLUTv1.0.3";
 const APP_SHELL = [
   "./",
   "./manifest.webmanifest",
